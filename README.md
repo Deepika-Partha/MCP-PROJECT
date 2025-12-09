@@ -16,7 +16,7 @@ to securely access local study documents to answer course-related questions.
 
 ## Running the Server
 ```bash
-python main.py
+python docs_server.py
 
 
 LINK TO PRESENTATION: https://youtu.be/5OExEqS9Vdc
