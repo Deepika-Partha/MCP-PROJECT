@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "study-docs-server": {
+      "command": "/Users/deepikaparthasarathy/Desktop/MCP/.venv/bin/python3",
+      "args": [
+        "/Users/deepikaparthasarathy/Desktop/MCP/docs_server.py"
+      ]
+    }
+  }
+}
