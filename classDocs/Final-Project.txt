@@ -1,0 +1,57 @@
+Background
+All students are required to propose and deliver a ’State of the Art’ project. In this project you will
+explore recent advances in Artificial Intelligence (AI) and Machine Learning (ML), as well as their use in
+various application areas. The projects are due on the last day of classes. For this project, students can work
+in groups of 3-4 people. Each team/student will present their results in short (10 minutes) video presentation
+in addition to submitting a written report and all code and data used in their project performance. Reports
+and code are due at the time of the presentation. The projects will be graded using the criteria described
+below with the following weights assigned to various parts:
+(10%) Project Topic Selection (due Nov. 13)
+(30%) Topic significance
+(30%) Final presentation
+(30%) Technical report
+Project Topic Selection
+You will select the project and your team. In the project you will explore recent advances in AI/ML on
+any problem or technique discussed in class. It can also be about AI/ML application to an area not discussed
+in class such as automated driving, computer security, software engineering, etc. You can use sources such
+as conferences (AAAI, CVPR, ICCV, WACV, IJCAI, ECCV, etc.), GitHub repositories, YouTube videos,
+and journals. It can also be about a Foundation Model which can be used in AI/ML applications. You
+should look for works which demonstrate their results on public datasets and publish their code. For most
+topics you can find standards datasets and leaderboards which show the best performing methods. Once you
+identify your sources you should write a one to two page proposal describing the problem and documenting
+the sources you intend to use. In your proposal you should list the names of your team members.
+Topic Significance
+This part of the grade will evaluate how well you demonstrate that the selected methods are indeed the
+state of the art in solving the selected problem. This can be done by showing how the discussed methods
+perform on standard datasets and how they compare to other related works. The grade will be assigned as
+follows (from 30% total):
+(15%) The selected methods demonstrate a solution to an interesting problem in AI/ML or applications.
+(15%) The importance is well documented by performance on standard datasets, position on leaderboards, or publication in leading conferences or journals.
+Final Presentation
+Each team will present their project in a short (10 minutes) video presentation. Slides are not required,
+but are highly recommended. The presentation should provide sufficient background so that it can be followed
+by students who took the class. It should properly credit the sources and demonstrate the performance.
+Finally, the conclusions and possible future directions should be presented. The grade will be assigned as
+follows (from 30% total):
+(5%) The project is well motivated and sources are properly attributed. Conclusions and future
+directions are meaningful.
+(10%) The methods studied are clearly presented.
+(15%) The performance is clearly and comprehensively demonstrated.
+Technical Report
+Each team will submit a technical report, the documented code, and all their data in a zip file or a
+tarball. The report should be written as a technical paper and should have the following parts:
+Abstract. A short summary of the project, including the main idea, methods, and tests should be given.
+This part should be about 200-250 words long.
+Introduction and Related Work. The problem should be described here. The proposed approach should be
+described and all related works should be cited.
+Technical Approach. The studied method(s) should be described in sufficient detail. Mathematics and
+figures should be used as needed to make it possible for a reader with sufficient background (say, a CS 480
+student) to understand the importance of the methods on their own. How the methods were tested and how
+their performance was demonstrated should be presented and discussed. The contribution of each member
+should be described in one paragraph. Each team member should include a paragraph describing their own
+experience and comments about what was done well, what was missed or could have been done if there was
+more time and/or expertise.
+Conclusions. Conclusions should discuss the importance of the discussed method/topic. Possible future
+directions should be discussed briefly.
+References. All cited works.
+The reports will be graded on clarity and coverage of all required parts.
